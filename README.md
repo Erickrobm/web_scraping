@@ -16,4 +16,6 @@ The repository also includes detailed instructions on how to set up and run the 
     bs4==4.11.1
 ```
 
-* [**Mexican government's open data portal**](https://datos.gob.mx/)
+* Download: [**Chromedriver**](https://chromedriver.chromium.org/)
+
+* Link: [**Mexican government's open data portal**](https://datos.gob.mx/)
